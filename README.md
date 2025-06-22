@@ -1,9 +1,9 @@
 # Data Science Project - IT Valley School | Anhanguera
-Developed by Lays Rodrigues https://www.linkedin.com/in/laysrodrigues/
+Developed by **Lays Rodrigues** https://www.linkedin.com/in/laysrodrigues/
 
 This repository contains a project developed as part of the **Artificial Intelligence and Machine Learning Postgraduate Program** at **IT Valley School in partnership with Anhanguera University**. The project was created for the subject of **Data Science**, using Python as the main programming language.
 
-## 📚 About the Project
+## About the Project
 
 The objective of this project is to apply data science concepts and techniques covered during the course, including:
 
@@ -14,7 +14,7 @@ The objective of this project is to apply data science concepts and techniques c
 - Model building and evaluation  
 - Presentation of insights and conclusions  
 
-## 🚀 Technologies and Tools
+## Technologies and Tools
 
 - Python  
 - Pandas  
@@ -23,7 +23,7 @@ The objective of this project is to apply data science concepts and techniques c
 - Scikit-Learn  
 - Jupyter Notebook  
 
-## 🏫 Academic Information
+## Academic Information
 
 - **Program:** Postgraduate in Artificial Intelligence and Machine Learning  
 - **Institution:** IT Valley School | Anhanguera University  
