@@ -29,8 +29,26 @@ The objective of this project is to apply data science concepts and techniques c
 - **Institution:** IT Valley School | Anhanguera University  
 - **Course:** Data Science  
 - **Instructor:** Prof. Nicksson Freitas - https://www.linkedin.com/in/nickssonfreitas/ 
-- **Year:** 2025  
+- **Year:** 2025
 
-## 🔗 Disclaimer
+## Configuration
+
+Install Anaconda https://www.anaconda.com/download
+
+conda env list
+
+conda create -n programacao python==3.9
+
+conda activate programacao
+
+pip install pandas
+
+pip install notebook jupyterlab
+
+conda env list
+
+jupyter lab
+
+## Disclaimer
 
 This project is intended for academic purposes only and is part of the requirements for the Data Science module. It is not intended for production use.
